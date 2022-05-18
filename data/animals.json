@@ -108,6 +108,28 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Renley",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Buffy",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
